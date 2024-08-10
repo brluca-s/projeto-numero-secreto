@@ -10,7 +10,7 @@ dos parênteses em sua criação e também invocação.
 */ 
 let listaDeNumerosSorteados = [] // iniciando uma lista vazia para armazenar todos os sorteados (sem valores dentro)
 let secretoMin = 1;
-let secretoMax = 100;
+let secretoMax = 1000;
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
