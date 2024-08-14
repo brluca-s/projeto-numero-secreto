@@ -1,5 +1,5 @@
 
-![Descricao da sua imagem](./img/Programação-Projeto%20do%20Jogo%20Secreto%20#ONE7.png)
+![](./img/Programação-Projeto%20do%20Jogo%20Secreto%20#ONE7.png)
 
 
 # Jogo do Número Secreto
@@ -9,9 +9,6 @@ Game de advinhação do número secreto, feito nos cursos de HTML e JavaScript, 
 ## 🔨 Funcionalidades do projeto
 
 O projeto consiste em um jogo que gera números aleatórios de 1 a N, e contém um campo de entrada cujo jogador irá lançar palpites. A cada tentativa, o jogo retorna se o valor enviado é maior ou menor que o número secreto definido no início da rodada. Munido dessas informações, o player deverá ir realizando palpites até que acerte qual era o número sorteado. No caso do acerto, a aplicação retornará qual o número de tentativas necessárias até o palpite correto. 
-
-![](https://github.com/brluca-s/projeto-numero-secreto/blob/44a075b1682e8ad026417d4d381c02a443c864e9/js-curso-2-aula_-/img/main_page.png)
-
 
 ## ✔️ Linguagens usadas:
 
