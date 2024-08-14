@@ -23,3 +23,4 @@ Tela de detalhes do produto
 
 ## 📁 Acesso ao projeto
 
+O projeto pode ser acessado [aqui](https://projeto-numero-secreto-pied.vercel.app/) (link externo do Vercel).
