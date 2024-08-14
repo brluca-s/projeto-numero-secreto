@@ -1,5 +1,5 @@
 
-![](./img/Programação-Projeto%20do%20Jogo%20Secreto%20#ONE7.png)
+![](./img/capa_readme.png)
 
 
 # Jogo do Número Secreto
